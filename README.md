@@ -16,5 +16,13 @@ Deprecated not used with MC PA anymore
 | Habitat_MultiInput_MixedData.ipynb | Notebook to run CV on image and categorical data. |
 
 Format for builder csv used in notebooks above
-| id | world | builder1 | builder2 | builder3 | builder4 | builder5 |
+| Column | Description |
+|---|---|
+| id | Unique team number given to group from google doc with researcher codes. |
+| world | World that the team built on. |
+| builder1 | Username of a player on the team. |
+| builder2 | Username of another player on the team or blank if no other members. |
+| builder3 | Username of another player on the team or blank if no other members. | 
+| builder4 | Username of another player on the team or blank if no other members. |
+| builder5 | Username of another player on the team or blank if no other members. |
 
